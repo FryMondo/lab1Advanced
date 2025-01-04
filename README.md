@@ -1,4 +1,4 @@
-# Lab6 Repository
+# Lab1 Advanced Repository
 ## Виконав
 - Студент групи ІА-22
 - Птачик Роман
